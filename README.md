@@ -2,5 +2,7 @@
 __________________
 
 # meine Kontakte:
--Git:       https://github.com/RomanKundriukov
--Instagram: https://www.instagram.com/romankundrukov/
+[Git](https://github.com/RomanKundriukov)
+[Instagram](https://www.instagram.com/romankundrukov/)
+
+![Gans]()
