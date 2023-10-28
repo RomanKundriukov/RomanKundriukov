@@ -1,6 +1,6 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=true&width=435&lines=Hi%2C+ich+bin+Roman+Kundriukov.;Ich+bin+Student+-+Web-Entwickler)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=RomanKundriukov)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RomanKundriukov&theme=solarized_dark)
 __________________
 
 # meine Kontakte:
@@ -22,9 +22,11 @@ Linux	![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&log
 Windows	![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 # Meine Statistik
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Roman%20Kundriukov&theme=dark&hide_border=true&locale=de)](https://git.io/streak-stats)
-<!---Для подробной версии-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RomanKundriukov)](https://github.com/anuraghazra/github-readme-stats)
-<!---Для компактной версии-->
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RomanKundriukov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RomanKundriukov)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RomanKundriukov&theme=solarized_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RomanKundriukov&theme=solarized_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RomanKundriukov&theme=solarized_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RomanKundriukov&theme=solarized_dark)
+
