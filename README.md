@@ -2,7 +2,7 @@
 __________________
 
 # meine Kontakte:
-[Git](https://github.com/RomanKundriukov)
-[Instagram](https://www.instagram.com/romankundrukov/)
++ [Git](https://github.com/RomanKundriukov)
++ [Instagram](https://www.instagram.com/romankundrukov/)
 
-![Gans](https://github.com/RomanKundriukov/RomanKundriukov/blob/main/image/Gans.mp4)
+![Gans](https://github.com/RomanKundriukov/RomanKundriukov/blob/main/image/Gans.gif?raw=true)
