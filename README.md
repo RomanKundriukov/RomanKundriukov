@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=true&width=435&lines=Hi%2C+ich+bin+Roman+Kundriukov.;Ich+bin+Student+-+Web-Entwickler)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=true&width=435&lines=Hi%2C+ich+bin+Web-Entwickler)](https://git.io/typing-svg)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RomanKundriukov&theme=solarized_dark)
 __________________
