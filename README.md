@@ -13,9 +13,7 @@ __________________
 # Meine Statistik
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RomanKundriukov&theme=solarized_dark)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RomanKundriukov&theme=solarized_dark)
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RomanKundriukov&theme=solarized_dark)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RomanKundriukov&theme=solarized_dark)
+
 
