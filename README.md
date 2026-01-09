@@ -28,15 +28,11 @@
 
 ### **Datenbanken**
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)  
-![SQLite](https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=white)  
 
 ### **DevOps & Tools**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
 ![WSL](https://img.shields.io/badge/WSL-000000?style=for-the-badge&logo=linux&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-
-### **Special Interests**
-💡 **WebRTC**, **IoT mit MQTT**, **KI-Integration in .NET**, **Cross-Platform-Video-Streaming**  
 
 ---
 
